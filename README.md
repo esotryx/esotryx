@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Allewdergy
-- 👀 I’m interested in Html,CSS,JavaScript.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on Baguette.live
-- 📫 How to reach me, westing#9888
+# I’m @esotryx 🎃
+- i'm a 16 year old aspiring Web/Program Developer 🖥️
+- i'm currently learning C#, Javascript, CSS, and HTML 🧾
+- and I'm currently taking a Video Game Design class. 📔
+- you can reach me on discord with my username: _bittn 👤
 
 <!---
-Allewdergy/Allewdergy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+esotryx/esotryx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
